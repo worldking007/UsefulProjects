@@ -1,0 +1,6 @@
+D:\SorubanTech\Projects\sukumar\DirectoryReportingConsole\DirectoryReport\DirectoryReportingLib\bin\Debug\DirectoryReportingLib.dll
+D:\SorubanTech\Projects\sukumar\DirectoryReportingConsole\DirectoryReport\DirectoryReportingLib\bin\Debug\DirectoryReportingLib.pdb
+D:\SorubanTech\Projects\sukumar\DirectoryReportingConsole\DirectoryReport\DirectoryReportingLib\obj\Debug\DirectoryReportingLib.csproj.AssemblyReference.cache
+D:\SorubanTech\Projects\sukumar\DirectoryReportingConsole\DirectoryReport\DirectoryReportingLib\obj\Debug\DirectoryReportingLib.csproj.CoreCompileInputs.cache
+D:\SorubanTech\Projects\sukumar\DirectoryReportingConsole\DirectoryReport\DirectoryReportingLib\obj\Debug\DirectoryReportingLib.dll
+D:\SorubanTech\Projects\sukumar\DirectoryReportingConsole\DirectoryReport\DirectoryReportingLib\obj\Debug\DirectoryReportingLib.pdb
